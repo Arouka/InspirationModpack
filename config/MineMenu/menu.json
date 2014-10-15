@@ -1,0 +1,16 @@
+{
+  "1": {},
+  "0": {},
+  "main": {
+    "0": {
+      "title": "DANCE",
+      "icon": {
+        "name": "fossil:fossilfigurine",
+        "damage": 0
+      },
+      "action": {
+        "command": "/emote gangnamstyle"
+      }
+    }
+  }
+}
